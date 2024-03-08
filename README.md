@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 # Hi there! 👋
 
 I'm Tushar Sharma, a passionate Full Stack Web Developer and an enthusiastic learner from the College of Engineering, BVCOE Delhi. Welcome to my GitHub profile! Here's a little bit about me:
@@ -35,4 +35,3 @@ I'm Tushar Sharma, a passionate Full Stack Web Developer and an enthusiastic lea
 
 Feel free to explore my projects and repositories. Let's connect and build something amazing together! 😊
 
--->
