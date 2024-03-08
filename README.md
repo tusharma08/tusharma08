@@ -34,5 +34,3 @@ Feel free to explore my projects and repositories. Let's connect and build somet
   </tr>
 </table>
 --->
-Feel free to explore my projects and repositories. Let's connect and build something amazing together! 😊
-
