@@ -18,7 +18,7 @@ I'm Tushar Sharma, a passionate Full Stack Web Developer and an enthusiastic lea
 ## Languages and Tools:
 ![Azure](icons/azure.png) ![C](icons/c.png) ![C++](icons/cplusplus.png) ![C#](icons/csharp.png) ![CSS3](icons/css3.png) ![Django](icons/django.png) ![Docker](icons/docker.png) ![DotNet](icons/dotnet.png) ![Figma](icons/figma.png) ![Firebase](icons/firebase.png) ![Flask](icons/flask.png) ![Flutter](icons/flutter.png) ![Git](icons/git.png) ![Heroku](icons/heroku.png) ![HTML5](icons/html5.png) ![Linux](icons/linux.png) ![MongoDB](icons/mongodb.png) ![MySQL](icons/mysql.png) ![OpenCV](icons/opencv.png) ![Pandas](icons/pandas.png) ![PostgreSQL](icons/postgresql.png) ![Postman](icons/postman.png) ![Python](icons/python.png) ![Scikit-Learn](icons/scikit_learn.png) ![Vagrant](icons/vagrant.png)
 
-## GitHub Stats:
+<!--- ## GitHub Stats:
 <table>
   <tr>
     <td>
@@ -29,6 +29,6 @@ I'm Tushar Sharma, a passionate Full Stack Web Developer and an enthusiastic lea
     </td>
   </tr>
 </table>
-
+--->
 Feel free to explore my projects and repositories. Let's connect and build something amazing together! 😊
 
