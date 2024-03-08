@@ -30,8 +30,5 @@ I'm Tushar Sharma, a passionate Full Stack Web Developer and an enthusiastic lea
   </tr>
 </table>
 
-## GitHub Trophies 🏆
-![trophy](https://github-profile-trophy.vercel.app/?username=DakshDudeja&theme=onedark)
-
 Feel free to explore my projects and repositories. Let's connect and build something amazing together! 😊
 
