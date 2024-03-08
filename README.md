@@ -13,7 +13,7 @@ I'm Tushar Sharma, a Third Year ECE (B.Tech) from the BVCOE, New Delhi. Welcome 
 - LinkedIn: [linkedin.com/in/tusharsharma9239/](https://www.linkedin.com/in/tusharsharma9239/)
 
 ## Technologies and Tools:
-CPP | OPPs | Data Structure & Algo | HTML 5 | CSS 3 | Flexbox | Grid | Bootstrap 5 | JavaScript ES6 | DOM Manipulation | jQuery | Bash Command Line | Git | GitHub | Version Control | Node.js | NPM | Express.js | EJS | REST | APIs | Databases | SQL | PostgreSQL | Authentication | Firebase | React.js | React Hooks | Web Design | Deployment with GitHub Pages | Web3 Development on the Internet Computer | Blockchain Technology 
+CPP | OPPs | Data Structure & Algo | HTML 5 | CSS 3 | Bootstrap 5 | JavaScript ES6 | DOM Manipulation | jQuery | Bash Command Line | Git | GitHub | Version Control | Node.js | NPM | Express.js | EJS | REST | APIs | Databases | SQL | PostgreSQL | Authentication | Firebase | React.js | React Hooks | Web Design | Web3 Development on the Internet Computer | Blockchain Technology 
 
 Feel free to explore my projects and repositories. Let's connect and build something amazing together! 😊
 
