@@ -20,9 +20,9 @@ I'm Tushar Sharma, a third-year ECE (B.Tech) from the BVCOE, New Delhi. Welcome 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=tusharma08&theme=react&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tusharma08&theme=react&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
+/--## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=tusharma08&theme=flat&no-frame=true&no-bg=true&margin-w=4)
-
+--/
 ---
 [![](https://visitcount.itsvg.in/api?id=tusharma08&icon=0&color=1)](https://visitcount.itsvg.in)
 
