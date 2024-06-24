@@ -4,7 +4,7 @@ I'm Tushar Sharma, a third-year ECE (B.Tech) from the BVCOE, New Delhi. Welcome 
 
 ## About Me:
 
-- 💼 Leading a team of 4 students at IOSC BVP as a Project Lead, empowering them in web development.
+- 💼 Led a team of 4 students at IOSC BVP as a Project Lead, empowering them in web development.
 - 🌱 I've actively engaged in projects and have developed a solid grasp of the MERN stack.
 - 🔍 Currently honing problem-solving skills and DSA with 400+ Solved problems on platforms like LeetCode and GeeksforGeeks with C++.
 
