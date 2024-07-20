@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Tushar Sharma, a third-year ECE (B.Tech) from the BVCOE, New Delhi. Welcome to my GitHub profile! Here's a little bit about me : 
+I'm Tushar Sharma, a third-year ECE (B.Tech) from the BVCOE, New Delhi. Welcome to my GitHub profile! Here's a little bit about me: 
 
 ## About Me:
 
