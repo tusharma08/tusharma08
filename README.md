@@ -1,10 +1,9 @@
 ## Hi there 👋
 
-I'm Tushar Sharma, a third-year ECE (B.Tech) from the BVCOE, New Delhi. Welcome to my GitHub profile! Here's a little bit about me: 
+I'm Tushar Sharma, a final-year B.Tech student in Electronics and Communication with a Minor in Computer Science at BVCOE, New Delhi. Welcome to my GitHub profile! 
 
 ## About Me:
 
-- 💼 Led a team of 4 students at IOSC BVP as a Project Lead, empowering them in web development.
 - 🌱 I've actively engaged in projects and have developed a solid grasp of the MERN stack.
 - 🔍 Currently honing problem-solving skills and DSA with 400+ Solved problems on platforms like LeetCode and GeeksforGeeks with C++.
 
